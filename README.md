@@ -33,8 +33,8 @@ pip install python-telegram-bot google-generativeai asyncio
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/r-hn/zara-tg-chatbot.git
-cd zara-tg-chatbot
+git clone https://github.com/r-hn/GenZ-TGChatBot.git
+cd GenZ-TGChatBot
 ```
 
 2. **Create a `.env` file** in the root directory and add your credentials:
@@ -76,12 +76,6 @@ Feel free to fork the repo, make changes, and open pull requests. Zara’s alway
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## Credits
 
 - **Telegram Bot API**: Powers the communication between users and Zara.
@@ -98,12 +92,6 @@ If you have any questions or just want to chat, you can contact me through my [w
 ## Store
 
 Want a more personalized experience with Zara? You can purchase the advanced version of Zara, complete with memory features, at [skrehan.in/store](https://skrehan.in/store).
-
----
-
-## Issues
-
-If you encounter any issues, please check the [Issues](https://github.com/r-hn/zara-tg-chatbot/issues) section or create a new issue if something’s not working as expected.
 
 ---
 
